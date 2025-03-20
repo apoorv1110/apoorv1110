@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.Tech Student at IIIT Lucknow 🎓 | Passionate about software development, data structures, and algorithms.<br>Competitive Programmer 🏆 | Solved 600+ problems, LeetCode Top 10% (Rating: 1773).<br>Full-Stack & AI Enthusiast 💡 | Skilled in Java, C++, Python, Web Dev, and Machine Learning.<br>Project Builder 🔧 | Created AI/ML, computer vision, data analysis and Web Dev projects<br>Innovator & Achiever 🏅 | Winner of 'Best AI/ML Idea' at IIIT Lucknow’s annual tech fest.
+B.Tech Student at IIIT Lucknow 🎓 | Passionate about software development, data structures, and algorithms.<br>Competitive Programmer 🏆 | Solved 600+ problems, Knight @LeetCode Top 4% (Rating: 1863).<br>Full-Stack & AI Enthusiast 💡 | Skilled in Java, C++, Python, Web Dev, and Machine Learning.<br>Project Builder 🔧 | Created AI/ML, computer vision, data analysis and Web Dev projects<br>Innovator & Achiever 🏅 | Winner of 'Best AI/ML Idea' at IIIT Lucknow’s annual tech fest.
 
 
 ## 🌐 Socials:
